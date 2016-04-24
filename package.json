@@ -1,0 +1,21 @@
+{
+    "name": "app",
+    "version": "0.0.1",
+    "description": "This is Test Application",
+    "homepage": "",
+    "repository": "",
+    "author": {
+        "name": "Manoj Victor",
+        "email": "fmanojvictor@gmail.com"
+    },
+    "license": "MIT",
+    "private": true,
+    "engines": {
+    },
+    "scripts": {
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
